@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "powerCalculator", "powerCalculator\powerCalculator.csproj", "{B88707C9-D2DE-461F-BD4B-9162AFB00C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88707C9-D2DE-461F-BD4B-9162AFB00C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88707C9-D2DE-461F-BD4B-9162AFB00C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88707C9-D2DE-461F-BD4B-9162AFB00C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88707C9-D2DE-461F-BD4B-9162AFB00C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7D9593-D8DC-445C-80DF-0B3B6ABE4ED0}
+	EndGlobalSection
+EndGlobal
